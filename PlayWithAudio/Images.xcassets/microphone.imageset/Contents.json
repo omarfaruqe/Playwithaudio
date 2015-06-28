@@ -3,11 +3,12 @@
     {
       "idiom" : "universal",
       "scale" : "1x",
-      "filename" : "chipmunk@2x-iphone.png"
+      "filename" : "microphone-iphone.png"
     },
     {
       "idiom" : "universal",
-      "scale" : "2x"
+      "scale" : "2x",
+      "filename" : "microphone@2x-iphone.png"
     },
     {
       "idiom" : "universal",
